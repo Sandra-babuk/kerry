@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    
+}
+#home{
+    font-family: monospace;
+}
+h1{
+    font-family: monospace;
+
+}
+#chat{
+    background: url('./images/book.jpeg');
+    height: 70vh;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html::-webkit-scrollbar-track{
+    background: transparent;
+}
+html::-webkit-scrollbar-thumb{
+    background: #bccec8;
+    border-radius: 10px;
+}
+html::-webkit-scrollbar{
+    width: 10px;
+}
